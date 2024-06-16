@@ -17,13 +17,13 @@ console.log(myArray1[0]);
 // myArr.unshift(9)
 // myArr.shift()
 
-console.log(myArr.includes(9));
-console.log(myArr.indexOf(3));
+// console.log(myArr.includes(9));
+// console.log(myArr.indexOf(3));
 
-const newArr = myArr.join()
+// const newArr = myArr.join()
 
-console.log(myArr);
-console.log( newArr);
+// console.log(myArr);
+// console.log( newArr);
 
 
 // Slice, Splice
